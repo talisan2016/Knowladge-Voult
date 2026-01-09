@@ -106,3 +106,87 @@ header nav button{
     background-color: transparent;
     border: 2px solid #FFFFFF;
 }
+/* new section */
+#midle {
+    height: 448px;
+}
+#midle #first{
+    margin-top: 70px;
+    margin-left: 590px;
+}
+#midle #first h1{
+    font-size: 48px;
+}
+#midle #first p{
+    margin-left: 19px;
+    color: #627338;
+    margin-top: 8px;
+}
+#midle #second{
+    padding-top: 20px;
+    margin: 20px 120px 0px 120px;
+    display: flex;
+    justify-content: space-between;
+}
+#midle #second .card{
+    height: 300px;
+    width: 322px;
+    box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+}
+#midle #second .card img{
+    background-color: red;
+    padding: 20px;
+    border-radius: 50%;
+    margin: 83px 144px 30px 130px;
+}
+#midle #second .card h4{
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+#midle #second .card p{
+    text-align: center;
+    color: #627382;
+    font-size: 16px;
+}
+
+
+/* section end */
+.midle2 {
+    margin-bottom: 40px;
+}
+.midle2 #container{
+      display: flex;
+      margin: 120px;
+}
+.midle2 #container #mimg img{
+    height: 600px;
+    width: 600px;
+}
+.midle2 #container .info{
+      margin-top:101px ;
+      margin-left: 60px;
+}
+.midle2 #container .info h6{
+    letter-spacing: 3px;
+    font-size: 16px;
+    color: #30B868;
+    margin-bottom: 16px;
+}
+.midle2 #container .info h1{
+    font-size: 48px;
+    margin-bottom: 16px;
+    text-transform: capitalize;
+}
+.midle2 #container .info .text p{
+    text-align: left;
+    color: #627382;
+    text-transform: capitalize;
+    margin-bottom: 40px;
+}
+.midle2 #container .info p{
+    margin-bottom: 16px;
+}
+
+/*  */
